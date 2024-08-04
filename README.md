@@ -28,7 +28,7 @@ The Expense Tracker API is a RESTful service that allows users to track their ex
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ladiyusuph/expense-tracker-api.git
+    git clone https://github.com/ladiyusuph/expense_tracker_api.git
     cd expense-tracker-api
     ```
 
